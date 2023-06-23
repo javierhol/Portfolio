@@ -61,86 +61,86 @@ export const personalInfo = [
   {
     id: 1,
     title: 'First Name : ',
-    description: 'Steve',
+    description: 'Javier',
   },
 
   {
     id: 2,
     title: 'Last Name : ',
-    description: 'Milner',
+    description: 'Holguin',
   },
 
   {
     id: 3,
     title: 'Age : ',
-    description: '27 Years',
+    description: '19 Years',
   },
 
   {
     id: 4,
     title: 'Nationality : ',
-    description: 'Tunisian',
+    description: 'Colombian',
   },
 
   {
     id: 5,
-    title: 'Freelance : ',
+    title: 'Developer : ',
     description: 'Available',
   },
 
   {
     id: 6,
     title: 'Address : ',
-    description: 'Tunis',
+    description: 'Armenia Quindio',
   },
 
   {
     id: 7,
     title: 'Phone : ',
-    description: '+21621184010',
+    description: '+ 57 313 594 3245',
   },
 
   {
     id: 8,
     title: 'Email : ',
-    description: 'you@mail.com',
+    description: 'javierholguin596@gmail.com',
   },
 
   {
     id: 9,
-    title: 'Skype : ',
-    description: 'steve.milner',
+    title: 'GitHub : ',
+    description: 'javierhol',
   },
 
   {
     id: 10,
     title: 'Langages : ',
-    description: 'French, English',
+    description: 'Spanish, English',
   },
 ];
 
 export const stats = [
   {
     id: 1,
-    no: '12+',
-    title: 'Years of <br /> Experience',
+    no: '6+',
+    title: 'Months of <br /> Experience',
   },
 
   {
     id: 2,
-    no: '97+',
+    no: '90+',
     title: 'Completed <br /> Projects',
   },
 
   {
     id: 3,
-    no: '81+',
+    no: '50+',
     title: 'Happy <br /> Customers',
   },
 
   {
     id: 4,
-    no: '53+',
+    no: '20+',
     title: ' Awards <br /> Won',
   },
 ];
@@ -211,7 +211,7 @@ export const skills = [
   {
     id: 2,
     title: 'Javascript',
-    percentage: '89',
+    percentage: '70',
   },
 
   {
@@ -222,32 +222,32 @@ export const skills = [
 
   {
     id: 4,
-    title: 'Php',
-    percentage: '66',
+    title: 'Typescript',
+    percentage: '60',
   },
 
   {
     id: 5,
-    title: 'Wordpress',
-    percentage: '95',
+    title: 'Kotlin',
+    percentage: '60',
   },
 
   {
     id: 6,
-    title: 'Jquery',
+    title: 'Java',
     percentage: '50',
   },
 
   {
     id: 7,
-    title: 'Angular',
-    percentage: '65',
+    title: 'Python',
+    percentage: '60',
   },
 
   {
     id: 8,
     title: 'React',
-    percentage: '45',
+    percentage: '60',
   },
 ];
 
