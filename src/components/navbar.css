@@ -89,6 +89,7 @@
   }
 
   .nav__link{
+    margin-bottom: 12px;
     padding: 0;
     border-bottom: none;
     background-color: var(--container-color);
@@ -99,6 +100,7 @@
   }
 
   .nav__icon{
+   
     font-size: 20px;
     margin-inline: auto;
   }
