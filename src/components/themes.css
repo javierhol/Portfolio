@@ -60,6 +60,12 @@
     place-items: center;
     display: grid;
     box-shadow: 0 0 2px hsl(0, 0%, 80%);
+    transition: all 0.3s ease;
+}
+
+.show__switcher .style__switcher-toggle,
+.show__switcher .theme__toggle{
+    left: -100%;
 }
 
 .style__switcher-toggle{
